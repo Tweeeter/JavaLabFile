@@ -1,4 +1,4 @@
-public class MethodOverloading {
+public class MultipleSum {
     // Method to add two integers
     public static int add(int a, int b) {
         return a + b;
