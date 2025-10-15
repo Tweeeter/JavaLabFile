@@ -1,3 +1,4 @@
+//Q4 Write a program to calculate the sum of digits of a given integer no.
 public class SumOfDigits {
     public static void main(String[] args) {
         // Parse the input number from command line argument

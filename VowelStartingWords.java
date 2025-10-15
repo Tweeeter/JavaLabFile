@@ -1,3 +1,5 @@
+//Q8 Write a program to enter a sentence form keyboard and also find all the words in that sentence with
+//starting character as vowel.
 import java.io.DataInputStream;
 import java.io.IOException;
 

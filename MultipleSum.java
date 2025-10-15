@@ -1,3 +1,5 @@
+//Q10 Create a java program that has three version of add method which can add two, three, and four
+//integers.
 public class MultipleSum {
     // Method to add two integers
     public static int add(int a, int b) {

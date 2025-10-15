@@ -1,3 +1,4 @@
+//Q3 Write a program to swap the value of 2 variables without using 3rd variable
 public class SwapWithoutThirdVariable {
     public static void main(String[] args) {
         int a = 10;

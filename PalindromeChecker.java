@@ -1,3 +1,4 @@
+// Q7 Write an application that reads a string and determines whether it is a palindrome.
 import java.io.DataInputStream;
 import java.io.IOException;
 

@@ -1,3 +1,5 @@
+//Q9 Write a Program in java which creates the array of size 5; find the sum and average of the five
+//numbers.
 public class ArraySumAverage {
     public static void main(String[] args) {
         // Create an array of size 5

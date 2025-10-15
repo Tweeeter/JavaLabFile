@@ -1,3 +1,4 @@
+//Q15b Program that illustrates the Creation of simple package.
 package mypackage;
 
 // Simple message class in a package

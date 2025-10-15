@@ -1,3 +1,5 @@
+//Q2 Write a program in java which enters three number using command line arguments and print sum and
+//average of the number
 public class SumAndAverage {
     public static void main(String[] args) {
         int num1 = Integer.parseInt(args[0]);

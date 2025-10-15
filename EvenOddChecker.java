@@ -1,3 +1,5 @@
+//Q6 rite a program in java which enter the number using Data Input Stream and check whether the
+//entered number is even or odd.
 import java.io.DataInputStream;
 import java.io.IOException;
 public class EvenOddChecker {

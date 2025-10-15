@@ -1,4 +1,4 @@
-// Simple program demonstrating package usage
+//Q15c Program that illustrates the Creation of simple package.
 public class PackageDemo {
     public static void main(String[] args) {
         // Using Calculator from mypackage

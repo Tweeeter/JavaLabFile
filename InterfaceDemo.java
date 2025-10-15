@@ -1,6 +1,4 @@
-/**
- * Simple program illustrating the concept of Interface in Java
- */
+//Q13 Program illustrating concept of Interface.
 public class InterfaceDemo {
     public static void main(String[] args) {
         // Create objects that implement the Drawable interface

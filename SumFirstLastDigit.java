@@ -1,3 +1,4 @@
+//Q5 . Write a program to compute the sum of the first and last digit of a given number.
 public class SumFirstLastDigit {
     public static void main(String[] args) {
         int number = Integer.parseInt(args[0]);
