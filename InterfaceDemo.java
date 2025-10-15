@@ -9,14 +9,6 @@ public class InterfaceDemo {
         System.out.println("Interface Demonstration:");
         circle.draw();
         rectangle.draw();
-        
-        // Demonstrate Animal interface
-        Animal dog = new Dog();
-        Animal cat = new Cat();
-        
-        System.out.println("\nAnimals making sounds:");
-        dog.makeSound();
-        cat.makeSound();
     }
 }
 
@@ -38,26 +30,5 @@ class Rectangle implements Drawable {
     @Override
     public void draw() {
         System.out.println("Drawing a Rectangle");
-    }
-}
-
-// Another interface example
-interface Animal {
-    void makeSound();
-}
-
-// Implementation of Animal interface
-class Dog implements Animal {
-    @Override
-    public void makeSound() {
-        System.out.println("Dog says: Woof");
-    }
-}
-
-// Another implementation of Animal interface
-class Cat implements Animal {
-    @Override
-    public void makeSound() {
-        System.out.println("Cat says: Meow");
     }
 }
